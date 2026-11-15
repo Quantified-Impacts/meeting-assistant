@@ -1,0 +1,9 @@
+.git
+.gitignore
+.dockerignore
+.env
+.env.*
+Makefile
+README.md
+sqlc.yaml
+tmp/
