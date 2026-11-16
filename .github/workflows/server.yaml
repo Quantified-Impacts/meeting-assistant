@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 env:
-  IMAGE: rg.fr-par.scw.cloud/company-services/server
+  IMAGE: rg.fr-par.scw.cloud/company-services/meeting-assistant-server
 
 jobs:
   build-push:
